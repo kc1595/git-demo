@@ -6,6 +6,6 @@ First file in the repository.
 
 leaning git throughout the day
 
-###third heading
+###added another file 
 
-life is too short enjoy every second
+1.index.html
